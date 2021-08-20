@@ -1,0 +1,19 @@
+{
+  "name": "hexlet-js",
+  "version": "1.0.0",
+  "description": "sdad",
+  "main": "index.js",
+  "scripts": {
+    "test": "ad"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/N3IMYS/hexlet-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N3IMYS/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/N3IMYS/hexlet-js#readme"
+}
