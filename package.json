@@ -1,5 +1,6 @@
 {
   "name": "hexlet-js",
+  "type": "module",
   "version": "1.0.0",
   "description": "sdad",
   "main": "index.js",
@@ -7,7 +8,6 @@
     "test": "ad"
   },
   "repository": {
-    "type": "module",
     "url": "git+https://github.com/N3IMYS/hexlet-js.git"
   },
   "author": "",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/N3IMYS/hexlet-js/issues"
   },
-  "homepage": "https://github.com/N3IMYS/hexlet-js#readme"
+  "homepage": "https://github.com/N3IMYS/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
